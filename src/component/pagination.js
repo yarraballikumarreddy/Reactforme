@@ -4,7 +4,7 @@ export default class  extends Component {
     render() {
         return (
             <div>
-               <h1>kumar</h1> 
+               <h1>kumar reddy</h1> 
             </div>
         )
     }
